@@ -1,4 +1,4 @@
-# SafeTogether-AED-FinalProject
+# SafeTogether
 
 Pandemic Management Systems
 
