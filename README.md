@@ -2,10 +2,8 @@
 
 Pandemic Management Systems
 
-This is a pandemic management system for AED- INFO5100 final project
-
 ## Authors
 
-1. Raksha Kagadalu Raju
-2. Arjun Raja Yogidas
+1.Arjun Raja Yogidas
+2. Raksha Kagadalu Raju
 3. Shrikrishna Joisa Koovehithilu
